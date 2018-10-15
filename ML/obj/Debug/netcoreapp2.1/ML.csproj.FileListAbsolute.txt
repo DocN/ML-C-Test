@@ -1,0 +1,12 @@
+C:\Users\DrN\Desktop\ASP\ML\ML\ML\obj\Debug\netcoreapp2.1\ML.csprojAssemblyReference.cache
+C:\Users\DrN\Desktop\ASP\ML\ML\ML\obj\Debug\netcoreapp2.1\ML.csproj.CoreCompileInputs.cache
+C:\Users\DrN\Desktop\ASP\ML\ML\ML\obj\Debug\netcoreapp2.1\ML.AssemblyInfoInputs.cache
+C:\Users\DrN\Desktop\ASP\ML\ML\ML\obj\Debug\netcoreapp2.1\ML.AssemblyInfo.cs
+C:\Users\DrN\Desktop\ASP\ML\ML\ML\bin\Debug\netcoreapp2.1\Data\exchange.csv
+C:\Users\DrN\Desktop\ASP\ML\ML\ML\bin\Debug\netcoreapp2.1\ML.deps.json
+C:\Users\DrN\Desktop\ASP\ML\ML\ML\bin\Debug\netcoreapp2.1\ML.runtimeconfig.json
+C:\Users\DrN\Desktop\ASP\ML\ML\ML\bin\Debug\netcoreapp2.1\ML.runtimeconfig.dev.json
+C:\Users\DrN\Desktop\ASP\ML\ML\ML\bin\Debug\netcoreapp2.1\ML.dll
+C:\Users\DrN\Desktop\ASP\ML\ML\ML\bin\Debug\netcoreapp2.1\ML.pdb
+C:\Users\DrN\Desktop\ASP\ML\ML\ML\obj\Debug\netcoreapp2.1\ML.dll
+C:\Users\DrN\Desktop\ASP\ML\ML\ML\obj\Debug\netcoreapp2.1\ML.pdb
